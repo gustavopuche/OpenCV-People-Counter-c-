@@ -1,7 +1,6 @@
 #+TITLE: OpenCV People Counter C++
 
 Detects people and count them using a camera or video.
-[[file:helm-fish-completion.png][./helm-fish-completion.png]]
 
 * Requirements
 
