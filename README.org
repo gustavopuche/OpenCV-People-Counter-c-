@@ -12,7 +12,8 @@ You can invoke Helm Fish completion with the ~PeopleCounter~ command following t
 
 
 #+begin_src bash
-Usage: ./PeopleCounter [-h][-t type][-i input_file][-o output_file]Options:
+Usage: ./PeopleCounter [-h][-t type][-i input_file][-o output_file]
+Options:
         -h, --help
                 Show this help message
         -t=TYPE
