@@ -8,7 +8,7 @@ Detects people and count them using a camera or video.
 
 * Usage
 
-You can invoke Helm Fish completion with the ~PeopleCounter~ command following this instructions.
+You can invoke People Counter with the ~PeopleCounter~ command following this instructions.
 
 
 #+begin_src bash
